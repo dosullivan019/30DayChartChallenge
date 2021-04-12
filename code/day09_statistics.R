@@ -1,5 +1,5 @@
 # 30 Day Chart challenge 2021
-# 11th April 2021: Statistics Distribution
+# 9th April 2021: Statistics Distribution
 # Data Source: Kaggle https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
 library(dplyr)
 library(ggplot2)

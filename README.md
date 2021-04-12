@@ -1,2 +1,2 @@
 # 30DayChartChallenge
-My contributions to 30 Chart Day Challenge 2021
+My contributions to 30 Day Chart Challenge 2021
