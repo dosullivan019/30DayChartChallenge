@@ -5,6 +5,7 @@ library(dplyr)
 library(ggplot2)
 library(ggridges)
 library(wesanderson)
+library(extrafont)
 
 temperature_data <- read.csv("data/city_temperature.csv", na.strings=-99)
 
@@ -17,8 +18,16 @@ temperature_data %>% filter(Country == 'Australia' & !is.na(AvgTemperature)) %>%
   scale_y_discrete(expand = expansion(mult = c(0, 0.2))) +
   scale_fill_manual(values = wes_palette("FantasticFox1", n = 5)) +
   labs(title='Temperatures in Australia',
-       subtitle = 'Distribution of Daily Temperatures in Major Australian Cities from 1995-2013.',
-       x='Temperature (C)') +
-  # TODO: Change font
+       subtitle = 'Distribution of Daily Temperatures in Major Australian Cities 1995-2013.',
+       x='Temperature (C)',
+       caption='Data Source: Kaggle / University of Dayton\n Created by: dosullivan019') +
   theme(legend.position = 'none',
-        panel.background = element_rect(fill='white'))
+        panel.background = element_rect(fill='white'),
+        plot.title=element_text(family='Georgia', size=20),
+        plot.subtitle = element_text(family='Georgia', size=14),
+        plot.caption = element_text(face='italic', size=9),
+        axis.title.x = element_text(family='Georgia', size=12),
+        axis.title.y=element_blank(),
+        axis.text = element_text(family='Georgia',size=11))
+
+ggsave('plots/day09_temperature_statistics.png')
