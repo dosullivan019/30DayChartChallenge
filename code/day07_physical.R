@@ -38,3 +38,4 @@ ggplot(ice_extent_data, aes(x=month_name, y=Total,group=year,col=year)) +
         plot.title = element_text(colour='white', size=20, hjust=0.5),
         panel.background = element_blank())
 
+ggsave('plots/day7_sea_ice_cover.png')
