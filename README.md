@@ -15,5 +15,8 @@ My contributions to 30 Day Chart Challenge 2021
 ## Day 10: Abstract
 ![Abtract image of Melbourne Town Hall](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day10_abstract.png)
 
+## Day 11: Circular
+![Rose Diagram of Daylight Hours across the globe](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day11_circular.png)
+
 ## Day 12: Strip
 ![Strip Chart of Moscow Temperature](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day12_strip_temperature_chart.png)
