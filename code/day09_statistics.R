@@ -12,7 +12,10 @@ temperature_data <- read.csv("data/city_temperature.csv", na.strings=-99)
 # Filter for only Australia cities
 temperature_data %>% filter(Country == 'Australia' & !is.na(AvgTemperature)) %>%
   mutate(avg_temp_celcius = round((AvgTemperature - 32) * (5/9)) ) %>%
-  ggplot(aes(x=avg_temp_celcius, y=City, fill=City)) +
+  # data source has mixed up Melbourne and Sydney so need to switch them
+  mutate(city_fixed = ifelse(City == 'Melbourne', 'Sydney', 
+                             ifelse(City == 'Sydney', 'Melbourne', City))) %>%
+  ggplot(aes(x=avg_temp_celcius, y=city_fixed, fill=city_fixed)) +
   geom_density_ridges(alpha=0.95, colour='white') +
   scale_x_continuous(expand = c(0, 0)) +
   scale_y_discrete(expand = expansion(mult = c(0, 0.2))) +
