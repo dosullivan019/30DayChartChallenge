@@ -6,6 +6,9 @@ My contributions to 30 Day Chart Challenge 2021
 ![Scatter Plot of Energy Consumption and CO2 Emissions](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day05_slope.png)
 
 # Distributions
+## Day 7: Physical
+![Monthly Sea Ice Cover in the Southern Ocean](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day07_physical.png)
+
 ## Day 8: Animals
 ![Platypus Distribution Map in Australia](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day08_animal_platypus.png)
 
