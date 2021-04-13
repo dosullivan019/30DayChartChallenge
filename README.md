@@ -5,6 +5,10 @@ My contributions to 30 Day Chart Challenge 2021
 ## Day 5: Slope
 ![Scatter Plot of Energy Consumption and CO2 Emissions](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day05_slope.png)
 
+## Day 6: Experimental
+![Reef Restoration Technique Survival Rates](https://github.com/dosullivan019/30DayChartChallenge/blob/main/
+plots/day06_experimental_reefs.png)
+
 # Distributions
 ## Day 7: Physical
 ![Monthly Sea Ice Cover in the Southern Ocean](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day07_sea_ice_cover.png)
