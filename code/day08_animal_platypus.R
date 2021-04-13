@@ -16,10 +16,10 @@ platypus_image = load.image(file = "./images/platypus.jpg")
 rne_map <- ne_countries(scale = "medium", returnclass = "sf", country='Australia')
 
 ggplot(rne_map) + 
+  geom_sf(color = NA) +
   geom_point(data=platypus_data[which(platypus_data$order=='Monotremata' &  platypus_data$decimalLatitude>-43.7),],
              aes(x=decimalLongitude, y=decimalLatitude),
-             colour='orange', size=4) +
-  geom_sf(color = NA) +
+             colour='orange', size=1) +
   geom_text(aes(x=135, y=-49, label='Platypus\ndistribution'), colour='brown', size=8, family='Goudy Stout') +
   annotation_raster(platypus_image, xmin=110, xmax=138, ymin=-35, ymax=-45) +
   labs(caption='Data Source: Atlas of Living Australia\nCreated by: dosullivan019') +
