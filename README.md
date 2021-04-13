@@ -26,3 +26,7 @@ My contributions to 30 Day Chart Challenge 2021
 
 ## Day 12: Strip
 ![Strip Chart of Moscow Temperature](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day12_strip_temperature_chart.png)
+
+# Relationships
+## Day 13: Correlation
+![Scatter plot of penguin flipper and bill length](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day13_correlation_penguins.png)
