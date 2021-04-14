@@ -30,3 +30,6 @@ My contributions to 30 Day Chart Challenge 2021
 # Relationships
 ## Day 13: Correlation
 ![Scatter plot of penguin flipper and bill length](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day13_correlation_penguins.png)
+
+## Day 14: Space
+![Scatter plot of UFO sightings length and daylight hours](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day14_space.png)
