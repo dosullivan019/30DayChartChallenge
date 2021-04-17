@@ -33,3 +33,6 @@ My contributions to 30 Day Chart Challenge 2021
 
 ## Day 14: Space
 ![Scatter plot of UFO sightings length and daylight hours](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day14_space.png)
+
+## Day 16: Tree
+![Phylogenetic tree of Australian life](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day16_phylogenetic_tree.png)
