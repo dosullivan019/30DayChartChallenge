@@ -36,3 +36,7 @@ My contributions to 30 Day Chart Challenge 2021
 
 ## Day 16: Tree
 ![Phylogenetic tree of Australian life](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day16_phylogenetic_tree.png)
+
+# Time Series
+## Day 19: Global Change
+[Timeseries of CO2 emissions per capitaof Australia, US, UK, China, India and Brazil](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day19_global_change_CO2_emissions.png)
