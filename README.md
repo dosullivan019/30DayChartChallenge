@@ -2,6 +2,9 @@
 My contributions to 30 Day Chart Challenge 2021
 
 # Comparisons
+## Day 3: Historical
+![Recreation of W.E.B DuBois Slaves image](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day03_history.png)
+
 ## Day 5: Slope
 ![Scatter Plot of Energy Consumption and CO2 Emissions](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day05_slope.png)
 
