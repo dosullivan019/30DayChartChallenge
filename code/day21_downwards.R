@@ -9,7 +9,7 @@ solar_data = read.csv('data/solar-pv-prices.csv')
 
 ggplot(data=solar_data, aes(x=Year, y=Solar.PV.Module.Cost..2019.US..per.W.)) +
   geom_area(fill='gold', col='gold') +
-  labs(title = 'Solar Panel Prices',
+  labs(title = 'Global Solar Panel Prices',
        y='Solar Panel prices ($ / W)',
        caption='Data Source: Our World in Data\nCreate by: dosullivan019') +
   scale_y_continuous(expand=c(0,0)) +
