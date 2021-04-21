@@ -46,3 +46,7 @@ My contributions to 30 Day Chart Challenge 2021
 
 ## Day 20: Upwards
 ![Timeseries of tallest buildings in USA](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day20_upwards.png)
+
+## Day 21: Downwards
+![Timeseries of Solar Panel Prices](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day21_downwards.png)
+
