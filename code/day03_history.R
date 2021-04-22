@@ -16,7 +16,7 @@ freed_slaves %>% ggplot(aes(x=Year, y=Slave)) +
                  label=scales::percent(ifelse(Free==100,NA,Free), accuracy=1, scale=1)),
                  nudge_y=1.5, nudge_x=-0.5, family='Bahnschrift', size=5) +
   annotate('text',label='100%', x=1868, y=91, size=4.5, family='Bahnschrift') +
-  annotate('text',label='SLAVES \n ENCLAVES', x=1827, y=50, 
+  annotate('text',label='SLAVES \n ESCLAVES', x=1827, y=50, 
            colour='white',fontface='bold',size=9, family='Bahnschrift') +
   annotate('text',label='FREE - LIBRE', x=1827, y=95, 
            colour='black',size=7, family='Bahnschrift', fontface='bold')  +
