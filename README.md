@@ -50,3 +50,5 @@ My contributions to 30 Day Chart Challenge 2021
 ## Day 21: Downwards
 ![Timeseries of Solar Panel Prices](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day21_downwards.png)
 
+## Day 22: Animate
+![Animation of post offices establishing in USA](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day22_animate.gif)
