@@ -52,3 +52,7 @@ My contributions to 30 Day Chart Challenge 2021
 
 ## Day 22: Animate
 ![Animation of post offices establishing in USA](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day22_animate.gif)
+
+## Day 23: Tile
+![Heatmap of a daily temperature in NYC](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day23_tile.gif)
+
