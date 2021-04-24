@@ -40,6 +40,9 @@ My contributions to 30 Day Chart Challenge 2021
 ## Day 16: Tree
 ![Phylogenetic tree of Australian life](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day16_phylogenetic_tree.png)
 
+## Day 18: Connections
+![Leo DiCaprio's connections on Netflix](https://github.com/dosullivan019/tidytuesday/blob/master/plots/2021W17_netflix.png)
+
 # Time Series
 ## Day 19: Global Change
 ![Timeseries of CO2 emissions per capitaof Australia, US, UK, China, India and Brazil](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day19_global_change_CO2_emissions.png)
@@ -55,4 +58,7 @@ My contributions to 30 Day Chart Challenge 2021
 
 ## Day 23: Tile
 ![Heatmap of a daily temperature in NYC](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day23_tile.png)
+
+## Day 24: Monochrome
+![Animation of Killer Whale Distribution in Australia](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day24_monochrome.gif)
 
