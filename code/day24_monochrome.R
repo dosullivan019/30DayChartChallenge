@@ -1,3 +1,7 @@
+# 30 Day Chart challenge 2021
+# 24th April 2021: Time Series | Monochrome
+# Distribution of Killer Whales in Australia
+# Data Source: Atlas of Living Australia
 library(imager)
 library(ggplot2)
 library(rnaturalearth)
@@ -29,4 +33,4 @@ orca_map =
 
 # Animate the map to change each year and save in GIF File Format:
 animate(orca_map, fps=6,
-        renderer = gifski_renderer("plots/orca_animation4.gif"), rewind=FALSE, end_pause=5)
+        renderer = gifski_renderer("plots/day24_monochrome.gif"), rewind=FALSE, end_pause=5)
