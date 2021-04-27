@@ -62,3 +62,6 @@ My contributions to 30 Day Chart Challenge 2021
 ## Day 24: Monochrome
 ![Animation of Killer Whale Distribution in Australia](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day24_monochrome.gif)
 
+# Uncertainties
+## Day 26: Trends
+![Monthly avocado prices](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day26_trends.png)
