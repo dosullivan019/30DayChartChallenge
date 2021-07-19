@@ -2,6 +2,9 @@
 My contributions to 30 Day Chart Challenge 2021
 
 # Comparisons
+## Day 1: Part to Whole
+![UEFA Euros 2020 Final Match Statistics](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day01_part_to_whole.png)
+
 ## Day 3: Historical
 ![Recreation of W.E.B DuBois Slaves image](https://github.com/dosullivan019/30DayChartChallenge/blob/main/plots/day03_history.png)
 
